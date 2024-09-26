@@ -30,5 +30,5 @@ pyiceberg --uri http://rest:8181 describe table docs_example.bids
 
 # Useful links
 
-https://py.iceberg.apache.org/api
-https://iceberg.apache.org
+- [https://py.iceberg.apache.org/api](https://py.iceberg.apache.org/api)
+- [https://iceberg.apache.org](https://iceberg.apache.org)
