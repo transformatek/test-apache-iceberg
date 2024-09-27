@@ -32,3 +32,4 @@ pyiceberg --uri http://rest:8181 describe table docs_example.bids
 
 - [https://py.iceberg.apache.org/api](https://py.iceberg.apache.org/api)
 - [https://iceberg.apache.org](https://iceberg.apache.org)
+- [https://duckdb.org/docs/guides/python/sql_on_arrow.html](https://duckdb.org/docs/guides/python/sql_on_arrow.html)
